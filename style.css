@@ -1,0 +1,19 @@
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: rgb(240, 175, 224);
+}
+
+#About {
+    background-color: aliceblue;
+}
+
+#Hobbies {
+    background-color: rgb(240, 175, 224);
+    padding-top: 2rem;
+    padding-left: 2rem;
+}
+
+section {
+    padding-top: 5rem;
+}
